@@ -1,0 +1,75 @@
+h1,
+p {
+  font-family: "Teko", sans-serif;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  height: 100px;
+  padding: 25px;
+  margin: 5px;
+  border-radius: 8px;
+
+  color: white;
+
+  background-image: linear-gradient(25deg, #0f509e, #1399cd);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+.coun {
+  background-image: linear-gradient(25deg, #d271f0, #e7ebec);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  size: 200px;
+}
+.counthook {
+  background-image: linear-gradient(25deg, #7d0f9e, #e7ebec);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  size: 200px;
+}
+.btnd {
+  font-family: "Orbitron", sans-serif;
+  background-color: #c24b69;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.btni {
+  font-family: "Orbitron", sans-serif;
+  background-color: #46d139;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.conv {
+  background-image: linear-gradient(25deg, #d271f0, #e7ebec);
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  size: 200px;
+  text-align: center;
+}
+
+.btnc{
+  font-family: "Orbitron", sans-serif;
+  background-color: #5068ee;
+  border-radius: 5px;
+  margin: 10px;
+  padding: 10px;
+}
+.inp{
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: #e2b5f0;
+  text-align: center;
+}

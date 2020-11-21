@@ -1,0 +1,11 @@
+h1,
+p {
+  font-family: Lato;
+}
+.item {
+  background-color: #6bc1f3;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 8px;
+  size: 200px;
+}
